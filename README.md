@@ -12,7 +12,7 @@ Deploy: (EM BREVE)
 
 ### Objetivo
 
-Desenvolver minhas habilidades de Javascript.
+Melhorar minhas habilidades de Javascript.
 
 ### Desafio
 
