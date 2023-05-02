@@ -43,7 +43,7 @@ main {
     color: #aaa;
     top: 56.3%;
     right: 26%;
-    font-size: clamp(4px, 3.5vw, 15px);  
+    font-size: clamp(4px, 3.5vw, 15px); 
 }
 
 .pokemon__name {
@@ -72,8 +72,8 @@ main {
 
 .buttons {
     position: absolute;
-    bottom: 10%;
-    left: 50%;
+    bottom: 11%;
+    left: 51%;
     width: 65%;
     transform: translate(-57%, 0);
     display: flex;
@@ -88,6 +88,7 @@ main {
     font-size: clamp(4px, 3.5vw, 14px);
     font-weight: 600;
     color: white;
+    text-shadow: 2px 2px 4px black;
     background-color: #454444;
     box-shadow: -2px 3px 0 #222, -4px 6px 0 #000;
 }
