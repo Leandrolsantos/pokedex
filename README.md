@@ -4,26 +4,27 @@
 
 ![](./assets/img/pokedexfundog.gif)
 
-Deploy: (EM BREVE)
+Deploy: https://pokedex-theta-bay.vercel.app/
 
 ## Sobre
 
-É um banco de dados contendo vários tipos de Pokemon.
+É um banco de dados contendo vários tipos de Pokemon. A versão deste banco de pokemons é de 5º geração. Utilizei a API do site PokeAPI (https://pokeapi.co/).
 
 ### Objetivo
 
-Melhorar minhas habilidades de Javascript.
+Melhorar minhas habilidades de Javascript e expandir minha prática em manipular API´s.
 
 ### Desafio
 
-Desenvolver meus conhecimentos de algoritmos do JS e também de como funciona a utilização de API´s.
+Conseguir aprender muito sobre JS e API´s neste projeto, ainda tenho um longo caminho, mas já me sinto muito mais confiante. A cada projeto que trabalho com essas ferramentas expando ainda mais meus conhecimentos.
 
 ### Conclusão
 
-(EM BREVE)
+Foi muito interessante aprender com mais este projeto, fiquei muito contente vendo a evolução durante essa semana de desenvolvimento e principalmente com o resultado. Focarei daqui para frente em ampliar minhas habilidades com alguns cursos e livros que adquiri, em breve desenvolverei projetos independentes e com mais complexidade.
 
 ### Ferramentas Utilizadas
 
-- HTML
-- CSS
 - JavaScript
+- API
+- CSS
+- HTML
