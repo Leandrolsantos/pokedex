@@ -1,4 +1,4 @@
-# Pokedex
+# Pokedex - Pokémons Database
 
 ![](./assets/img/pokedexfundo.png)
 
@@ -8,7 +8,7 @@ Deploy: https://pokedex-theta-bay.vercel.app/
 
 ## Sobre
 
-É um banco de dados contendo vários tipos de Pokemon. A versão deste banco de pokemons é de 5º geração. Utilizei a API do site PokeAPI (https://pokeapi.co/).
+É um banco de dados contendo vários tipos de Pokémon. A versão deste banco de Pokémons é da 5º geração. Utilizei a API do site PokeAPI (https://pokeapi.co/).
 
 ### Objetivo
 
