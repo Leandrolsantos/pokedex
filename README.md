@@ -1,4 +1,4 @@
-# Pokedex - Pokémons Database
+# Pokedex - 5º Generation Database
 
 ![](./assets/img/pokedexfundo.png)
 
